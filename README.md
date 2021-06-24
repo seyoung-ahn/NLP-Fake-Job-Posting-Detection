@@ -32,3 +32,6 @@
 - However, to further improve our study, the models developed could be hypertuned with a more comprehensive set of hyperparameters, and additional datasets could be used to evaluate the performance of each model. 
 
 Please refer to our [Report](https://github.com/haorzeng1997/NLP-Fake-Job-Posting-Detection/blob/main/report.pdf) and code files for more details. 
+
+Author: Seyoung Ahn 
+Project Completion Date: March 2021
