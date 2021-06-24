@@ -4,8 +4,8 @@
 - This is a group project from *Analyzing Unstructured Data*, one of the courses I took at Rady School of Management, UC San Diego. 
 - The main goal of the project was to build a classification model that identifies fraudulent job positings. 
 - There were two things that were explored in the project:  
-  * (1) different techniques of text representation (CountVectorizer, TF-IDF, and GloVe) 
-  * (2) different classification algorithms (Logistic Regression, K-Nearest Neighbor, Random Forest, and Gradient Boosted Trees. 
+  1. different techniques of text representation (CountVectorizer, TF-IDF, and GloVe) 
+  2. different classification algorithms (Logistic Regression, K-Nearest Neighbor, Random Forest, and Gradient Boosted Trees. 
 
 ### Dataset Used
 - A real-world dataset that was published by the Employment Scam Aegean Dataset (EMSCAD) was used. 
@@ -33,5 +33,6 @@
 
 Please refer to our [Report](https://github.com/haorzeng1997/NLP-Fake-Job-Posting-Detection/blob/main/report.pdf) and code files for more details. 
 
-Author: Seyoung Ahn 
+Author: Seyoung Ahn
+
 Project Completion Date: March 2021
